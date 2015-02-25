@@ -54,7 +54,7 @@ public class RateThisApp {
 	/**
 	 * App launching times until showing rate dialog
 	 */
-	public static final int LAUNCH_TIMES = 10;
+	public static final int LAUNCH_TIMES = 20;
 	
 	/**
 	 * If true, print LogCat
